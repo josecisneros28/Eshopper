@@ -1,10 +1,10 @@
 <?php
   $BDProductos = array( 
-    array(1, 2, 3, 4, 5),                                       //El ID
-    array("Blusa", "Lentes", "Playera", "Pantalón", "Vestido"), //La Descripción
-    array(100, 350, 200, 420, 250),                             //El Precio
-    array("Dama", "Caballero", "Caballero", "Dama", "Dama"));   //Categoría
-  $iProductos = 5; //Indica el No. de Productos
+    array(1, 2, 3, 4, 5, 6, 7),                                       //El ID
+    array("Blusa", "Lentes", "Playera", "Pantalón", "Vestido", "Playera roja", "Calcetines"), //La Descripción
+    array(100, 350, 200, 420, 250, 170, 60),                             //El Precio
+    array("Dama", "Caballero", "Caballero", "Dama", "Dama", "Caballero", "Caballero"));   //Categoría
+  $iProductos = 7; //Indica el No. de Productos
 
   $BDAlmacen = array( 
     array(1, 2, 3, 4, 5), //El IDProducto
@@ -170,7 +170,8 @@
 						<div class="panel-group category-products" id="accordian"><!--category-productsr-->
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h4 class="panel-title"><a href="#">Categoría 1</a></h4>
+									<h4 class="panel-title"><a href="#">Damas</a></h4>
+									<h4 class="panel-title"><a href="#">Caballeros</a></h4>
 								</div>
 							</div>
 						</div><!--/category-products-->
@@ -232,6 +233,19 @@
 													<img src="images/home/recommend1.jpg" alt="" />
 													<h2>$50</h2>
 													<p>Producto Esp 1</p>
+													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Agregar al Carrito</a>
+												</div>
+												
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="product-image-wrapper">
+											<div class="single-products">
+												<div class="productinfo text-center">
+													<img src="images/home/recommend1.jpg" alt="" />
+													<h2>$50</h2>
+													<p>Producto Esp 2</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Agregar al Carrito</a>
 												</div>
 												
