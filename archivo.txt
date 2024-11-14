@@ -1,0 +1,5 @@
+1, guantes,350,caballeros
+2, Camisa Roja,250,Caballero
+, ,,
+3, calcetines,60,Caballeros
+4, vestido,450,Damas
