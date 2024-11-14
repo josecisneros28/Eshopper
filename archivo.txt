@@ -1,5 +1,7 @@
-1, guantes,350,caballeros
-2, Camisa Roja,250,Caballero
-, ,,
-3, calcetines,60,Caballeros
-4, vestido,450,Damas
+1, Blusa,100,Damas
+2, Lentes,180,Caballeros
+3, Playera Azul,250,Caballeros
+4, Blusa Ligera,100,Damas
+5, Vestido,450,Damas
+6, Playera Roja,300,Caballeros
+7, Calcetines,80,Caballeros
