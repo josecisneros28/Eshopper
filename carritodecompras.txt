@@ -1,0 +1,4 @@
+ Blusa Ligera,100
+ Vestido,450
+ Calcetines,80
+ Calcetines,80
