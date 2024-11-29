@@ -33,8 +33,8 @@
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +52 671 767 6346</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> Alejandrobriava26_15@outlook.com</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> +52 618 444 5678</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> cisneros@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>					
@@ -255,7 +255,7 @@
 					<span>
 						<label><input type="checkbox"> Paypal</label>
 					</span>
-					<a class="btn btn-primary" href="fpdf/ticket.php" target="_blank">Pagar</a> 
+					<a class="btn btn-primary" href="fpdf/ticket.php" target="_blank">Pagar</a>
 				</div>
 		</div>
 	</section> <!--/#cart_items-->
